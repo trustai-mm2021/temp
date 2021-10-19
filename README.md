@@ -1,138 +1,231 @@
+
 # Overview
-Machine learning (ML) models are increasingly being employed to make highly consequential decisions pertaining to employment, bail, parole, and lending. While such models can learn from large amounts of data and are often very scalable, their applicability is limited by certain safety challenges. A key challenge is identifying and correcting systematic patterns of mistakes made by ML models before deploying them in the real world.
+<div style="text-align: justify">
+In this workshop, we aim to address the trustworthy issues of Multimedia Computing. We aim to bring together researchers in the Trustworthy aspect of Multimedia Computing and facilitate discussions in injecting trusts into multimedia to develop trustworthy techniques that are reliable and acceptable to multimedia researchers and practitioners. Our scope is at the conjunction of multimedia and trustworthy AI, including Explainability, Robustness & Safety, Data Privacy, Accountability & Transparency, and Fairness.
+</div>
 
-The goal of this workshop, held at the [2019 International Conference on Learning Representations (ICLR)](https://iclr.cc/), is to bring together researchers and practitioners with different perspectives on debugging ML models. 
+# Speakers
 
-## Speakers
 <div style="display: flex">
   <div style="width:22.5%">
-    <a href="https://people.csail.mit.edu/madry/">
-    <img alt="Aleksander Madry" src="pics/aleksander.jpg">
+    <a href="https://www.ceessnoek.info/">
+    <img alt="Cees Snoek" src="pics/cees_3.jpg">
     </a><br>
-    <a href="https://people.csail.mit.edu/madry/">Aleksander Madry</a><br>
-    MIT
+    <a href="https://www.ceessnoek.info/">Cees Snoek</a><br>
+    University of Amsterdam
   </div>
   
   <div style="width:2.5%">
   </div>
   
   <div style="width:22.5%">
-    <a href="https://users.cs.duke.edu/~cynthia/">
-    <img alt="Cynthia Rudin" src="pics/cynthia.jpg">
+    <a href="https://web.eecs.umich.edu/~kuipers/">
+    <img alt="Benjamin Kuipers" src="pics/benjamin2.jpg">
     </a><br>
-  <a href="https://users.cs.duke.edu/~cynthia/">Cynthia Rudin</a><br>
-    Duke University 
+  <a href="https://web.eecs.umich.edu/~kuipers/">Benjamin Kuipers</a><br>
+    University of Michigan
   </div>
   
   <div style="width:2.5%">
   </div>
   
   <div style="width:22.5%">
-    <a href="https://ai.google/research/people/DanMoldovan">
-    <img alt="Dan Moldovan" src="pics/dan.jpg">
+    <a href="https://aisecure.github.io/">
+    <img alt="Bo Li" src="pics/bo.png">
     </a><br>
-  <a href="https://ai.google/research/people/DanMoldovan">Dan Moldovan</a><br>
-    Google
+  <a href="https://aisecure.github.io/">Bo Li</a><br>
+    UIUC
   </div>
   
   <div style="width:2.5%">
   </div>
   
   <div style="width:22.5%">
-    <a href="https://www.linkedin.com/in/deborah-raji-065751b2/">
-    <img alt="Deborah Raji" src="pics/deb.jpg">
+    <a href="https://ajmalsaeed.net/">
+    <img alt="Liefeng Bo" src="pics/Drbo2.png">
     </a><br>
-  <a href="https://www.linkedin.com/in/deborah-raji-065751b2/">Deborah Raji</a><br>
-    University of Toronto
+    <a href="https://research.cs.washington.edu/istc/lfb/">Liefeng Bo</a><br>
+    JD.com
   </div>
 </div>
 
 <div style="display: flex">
   <div style="width:22.5%">
-    <a href="https://obastani.github.io/">
-    <img alt="Osbert Bastani" src="pics/osbert.jpg">
+    <a href="http://tingyao.deepfun.club/">
+    <img alt="Ting Yao" src="pics/ting.jpg">
     </a><br>
-    <a href="https://obastani.github.io/">Osbert Bastani</a><br>
-    University of Pennsylvania
+    <a href="http://tingyao.deepfun.club/">Ting Yao</a><br>
+    JD.com
   </div>
   
   <div style="width:2.5%">
   </div>
   
   <div style="width:22.5%">
-    <a href="http://sameersingh.org/">
-    <img alt="Sameer Singh" src="pics/sameer.jpg">
+    <a href="https://www.yf.io/">
+    <img alt="Fisher Yu" src="pics/fisher_yu.jpeg">
     </a><br>
-  <a href="http://sameersingh.org/">Sameer Singh</a><br>
-    UC Irvine
-  </div>
-
-  <div style="width:2.5%">
-  </div>
-  
-  <div style="width:22.5%">
-    <a href="https://suchisaria.jhu.edu/">
-    <img alt="Suchi Saria" src="pics/suchi.jpg">
-    </a><br>
-  <a href="https://suchisaria.jhu.edu/">Suchi Saria</a><br>
-    Johns Hopkins University
+  <a href="https://www.yf.io/">Fisher Yu</a><br>
+    ETH Zurich
   </div>
 
 </div>
 
-## Schedule 
-See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3FoUfVkUoC0c) for a printable version.
+
+## Call for Contributions
+
+We believe the workshop will offer a timely collection of research updates to benefit the people working in the broad fields ranging from multimedia, computer vision to machine learning. To this end, we solicit original research and survey papers addressing the topics listed below (but not limited to):
+- Interpretable AI methods for Multimedia Computing
+- Robustness of Multimedia Computing
+- Security/safety and privacy in Multimedia processing
+- Fairness and ethics in Multimedia Computing
+- Datasets and evaluation metrics for Trustworthy Multimedia computing
+- Theories of interpretable Multimedia models
+- Visualization for Multimedia Computing models
+- Causality reasoning and learning in Multimedia Computing
+- Applications of trustworthy AI for Multimedia, e.g. in medical diagnosis, autonomous driving, defense applications
+
+## Important dates
+- Paper submission: <strong>July 30th, 2021</strong>
+- Author Notification: <strong>August 26th, 2021</strong>
+- Camera-Ready: <strong>September 2nd, 2021</strong>
+- Workshop: <strong>October 19-20th, 2021</strong>
+
+All deadlines are at midnight(23:59) anywhere on Earth.
+
+## Instructions
+
+We use the same formatting template as ACM Multimedia 2021. Submissions can be of varying length from 4 to 8 pages, plus additional pages for the reference pages. There is no distinction between long and short papers. All papers will undergo the same review process and review period. All contributions must be submitted through CMT.
+
+Use the following link: [https://cmt3.research.microsoft.com/ACMMM2021/](https://cmt3.research.microsoft.com/ACMMM2021/)
+Select the track: “1st International Workshop on Trustworthy AI for Multimedia Computing”. 
+The accepted workshop papers will be published in the ACM Digital Library.
+
+## Schedule
 
 | Time | Event |
 | ----- | -------|
-| 9.50 | Opening remarks [[video]](https://slideslive.com/38915697/opening-remarks-debugging-machine-learning-models)|
-| | Session Chair: [Julius Adebayo](http://juliusadebayo.com/) (MIT) |
-| 10.00 | **Invited talk** – [Aleksander Madry](https://people.csail.mit.edu/madry/) (MIT): *A New Perspective on Adversarial Perturbations* [[video]](https://slideslive.com/38915699/a-new-perspective-on-adversarial-perturbations)|
-| 10:30 | **Contributed talk (Best Research Paper Award)** – [Simon Kornblith](http://simonster.com/) (Google): *Similarity of Neural Network Representations Revisited* [[video]](https://slideslive.com/38915700/similarity-of-neural-network-representations-revisited)|
-| 10.40 | **Contributed talk (Best Demo Award)** – [Besmira Nushi](https://www.microsoft.com/en-us/research/people/benushi/) (Microsoft Research): *Error terrain analysis for machine learning: Tool and visualizations* [[video]](https://slideslive.com/38915701/error-terrain-analysis-for-machine-learning-tool-and-visualizations)|
-| 10.50 | Coffee break |
-| | Session Chair: [Julius Adebayo](http://juliusadebayo.com/) (MIT) |
-| 11.10 | **Invited talk** – [Osbert Bastani](https://obastani.github.io/) (University of Pennsylvania): *Verifiable Reinforcement Learning via Policy Extraction* [[video]](https://slideslive.com/38915702/verifiable-reinforcement-learning-via-policy-extraction)|
-| 11:40 | **Contributed talk (Best Student Research Paper Award)** – [Daniel Kang](https://ddkang.github.io/) (Stanford): *Debugging Machine Learning via Model Assertions* [[video]](https://slideslive.com/38915703/model-assertions-fo-quality-assirance-in-machine-learning) |
-| 11:50 | **Contributed talk** – [Benjamin Link](https://www.linkedin.com/in/ben-link-45a5981a) (Indeed): *Improving Jobseeker-Employer Match Models at Indeed Through Process, Visualization, and Exploration* [[video]](https://slideslive.com/38915705/improving-jobseekeremployer-match-models-at-indeed-through-process-visualization-and-exploration)|
-| 12.00 | Break|
-| | Session Chair: [Sarah Tan](https://shftan.github.io/) (Cornell University / UCSF)|
-| 12.10 | **Invited talk** – [Sameer Singh](http://sameersingh.org/) (UC Irvine): *Discovering Natural Bugs Using Adversarial Data Perturbations* [[video]](https://slideslive.com/38915704/discovering-natural-bugs-using-adversarial-data-perturbations)|
-| 12.40 | **Invited talk** – [Deborah Raji](https://www.linkedin.com/in/deborah-raji-065751b2/) (University of Toronto): *"Debugging" Discriminatory ML Systems* [[video]](https://slideslive.com/38915706/debugging-discriminatory-ml-systems)|
-| 1.00 | **Contributed talk (Best Applied Paper Award)** – [Tomer Arnon](https://www.linkedin.com/in/tomerarnon/) and [Christopher Lazarus](https://www.linkedin.com/in/christopherlazarus/): *NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks* [[video]](https://slideslive.com/38915707/neuralverificationjl-algorithms-for-verifying-deep-neural-networks)|
-| 1.10 | Lunch |
-| 2.30 | Break |
-| | Session Chair: [D Sculley](https://www.eecs.tufts.edu/~dsculley/) (Google) |
-| 3.20 | Welcome back remarks |
-| 3.30 | **Invited talk** – [Suchi Saria](https://suchisaria.jhu.edu/) (Johns Hopkins University): *Safe and Reliable Machine Learning: Preventing and Identifying Failures* [[video]](https://slideslive.com/38915708/safe-and-reliable-machine-learning-preventing-and-identifying-failures)|
-| 4.00 | **Invited talk** – [Dan Moldovan](https://ai.google/research/people/DanMoldovan) (Google): *Better Code for Less Debugging with AutoGraph* [[video]](https://slideslive.com/38915709/better-code-for-less-debugging-with-autograph)|
-| 4.20 | **Posters & Demos** & Coffee break <br> [Accepted posters](#posters) &nbsp; [Accepted demos](#demos) |
-| | Session Chair: [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University) |
-| 5.20 | **Contributed position paper** – [Michela Paganini](https://mickypaganini.github.io/) (Facebook): *The Scientific Method in the Science of Machine Learning* [[video]](https://slideslive.com/38915710/the-scientific-method-in-the-science-of-machine-learning)|
-| 5.30 | **Invited opinion piece** – [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University): *Don't debug your black box, replace it* [[video]](https://slideslive.com/38915712/dont-debug-your-black-box-replace-it)|
-| 6.00 | **Q&A and panel with all invited speakers** – "The Future of ML Debugging" [[video]](https://slideslive.com/38915711/the-future-of-ml-debugging-qa-and-panel-with-all-invited-speakers) <br> Moderator: [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University) <br> Panelists: [Aleksander Madry](https://people.csail.mit.edu/madry/), [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/), [Dan Moldovan](https://ai.google/research/people/DanMoldovan), [Deborah Raji](https://www.linkedin.com/in/deborah-raji-065751b2/), [Osbert Bastani](https://obastani.github.io/), [Sameer Singh](http://sameersingh.org/), [Suchi Saria](https://suchisaria.jhu.edu/) |
-| 6.25 | Closing remarks |
+| 9:00 | Opening remarks |
+| 9:10 | Invited talk 1 |
+| 9:45 | Invited talk 2 |
+| 10:20 | Invited talk 3 |
+| 10:55 | Invited talk 4 |
+| 11:30 | Invited talk 5 |
+| 12:05 | Lunch break |
+| 14:00 | Invited talk 6 |
+| 14:30 | Oral 1 |
+| 15:00 | Oral 2 |
+| 15:30 | Oral 3 |
+| 15:45 | Poster Session and tea break |
 
-## Posters
-[Call for submissions](https://drive.google.com/open?id=17ccUz0F1kD9JEQC1LIrBeJNpH3xTf2w-esZWyZMjsto) (deadline has passed)
-- [Discovery of Intersectional Bias in Machine Learning Using Automatic Subgroup Generation](cameraready/DebugML-19_paper_3.pdf). Angel Cabrera, Minsuk Kahng, Fred Hohman, Jamie Morgenstern and Duen Horng Chau
-- [Calibration of Encoder Decoder Models for Neural Machine Translation](cameraready/DebugML-19_paper_12.pdf). Aviral Kumar and Sunita Sarawagi.
-- [Step-wise Sensitivity Analysis: Identifying Partially Distributed Representations for Interpretable Deep Learning](cameraready/DebugML-19_paper_7.pdf). Botty Dimanov and Mateja Jamnik
-- [Handling Bias in AI Using Simulation](cameraready/DebugML-19_paper_13.pdf). Daniel McDuff, Roger Cheng and Ashish Kapoor
-- [Inverting Layers of a Large Generator](cameraready/DebugML-19_paper_18.pdf). David Bau, Jun-Yan Zhu, William Peebles, Hendrik Strobelt, Jonas Wulff, Bolei Zhou and Antonio Torralba
-- [MAST: A Tool for Visualizing CNN Model Architecture Searches](cameraready/DebugML-19_paper_24.pdf). Dylan Cashman, Adam Perer and Hendrik Strobelt.
-- [Visualizations of Decision Regions in the Presence of Adversarial Examples](cameraready/DebugML-19_paper_6.pdf). Grzegorz Swirszcz, Brendan O'Donoghue and Pushmeet Kohli.
-- [BertViz: A Tool for Visualizing Multi-Head Self-Attention in the BERT Model](cameraready/DebugML-19_paper_2.pdf). Jesse Vig.
-- [Where To Be Adversarial Perturbations Added? Investigating and Manipulating Pixel Robustness Using Input Gradients](cameraready/DebugML-19_paper_4.pdf). Jisung Hwang, Younghoon Kim, Sanghyuk Chun, Jaejun Yoo, Ji-Hoon Kim and Dongyoon Han.
-- [Dissecting Pruned Neural Networks](cameraready/DebugML-19_paper_15.pdf). Jonathan Frankle and David Bau.
-- [Monitoring Opaque Learning Systems](cameraready/DebugML-19_paper_25.pdf). Leilani Gilpin.
-- [Model Agnostic Globally Interpretable Explanations](cameraready/DebugML-19_paper_5.pdf). Piyush Gupta, Nikaash Puri, Sukriti Verma, Pratiksha Agarwal and Balaji Krishnamurthy.
-- [Debugging Trained Machine Learning Models Using Flip Points](cameraready/DebugML-19_paper_11.pdf). Roozbeh Yousefzadeh and Dianne O'Leary.
-- [Universal Multi-Party Poisoning Attacks](cameraready/DebugML-19_paper_16.pdf). Saeed Mahloujifar, Ameer Mohammed and Mohammad Mahmoody.
-- [Failing Loudly: An Empirical Study of Methods for Detecting Dataset Shift](cameraready/DebugML-19_paper_20.pdf). Stephan Rabanser, Stephan Guennemann and Zachary Lipton.
-- [Empirically Measuring Concentration: Fundamental Limits on Intrinsic Robustness](cameraready/DebugML-19_paper_19.pdf). Xiao Zhang, Saeed Mahloujifar, Mohammad Mahmoody and David Evans.
-- [Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded](cameraready/DebugML-19_paper_23.pdf). Ramprasaath R. Selvaraju, Stefan Lee, Yilin Shen, Hongxia Jin, Shalini Ghosh, Dhruv Batra and Devi Parikh.
-- [Similarity of Neural Network Representations Revisited](cameraready/DebugML-19_paper_9.pdf). Simon Kornblith, Mohammad Norouzi, Honglak Lee and Geoffrey Hinton (Contributed talk).
-- [NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks](cameraready/DebugML-19_paper_22.pdf). Changliu Liu, Tomer Arnon, Christopher Lazarus and Mykel Kochenderfer (Contributed talk).
-- [Debugging Machine Learning via Model Assertions](cameraready/DebugML-19_paper_27.pdf). Daniel Kang, Deepti Raghavan, Peter Bailis and Matei Zaharia (Contributed talk).
-- [The Scientific Method in the Science of Machine Learning](cameraready/DebugML-19_paper_26.pdf). Jessica Zosa Forde and Michela Paganini (Contributed talk).
+## Invited Talks
+[Prof. Benjamin Kuipers]("https://web.eecs.umich.edu/~kuipers/") is a Professor of Computer Science and Engineering at the University of Michigan. He was previously at the University of Texas at Austin, where he held an endowed professorship and served as Computer Science department chair. He received his B.A. from Swarthmore College, his Ph.D. from MIT, and he is a Fellow of AAAI, IEEE, and AAAS. His research in artificial intelligence and robotics has focused on the representation, learning, and use of foundational domains of commonsense knowledge, including knowledge of space,dynamical change, objects, and actions. He is currently investigating ethics as a foundational domain of knowledge for robots and other AIs that may act as members of human society. 
+
+**Title: Ethics and Trust for Robots and AIs** \
+**Abstract:** To apply trustworthy AI to multimedia computing, we must understand the roles and relations among ethics, trust, and cooperation in ensuring the well-being of our society. As robots and other intelligent systems (AIs) increasingly participate along with humans in human society, they must be worthy of trust by human users and bystanders.
+Since the world is effectively infinitely complex, efficiently making action decisions for humans or for robots requires simplified models. However, poorly chosen models can propose actions that lead to poor outcomes. 
+The Prisoner’s Dilemma shows how utility maximization with an overly-simple utility measure can lead to a poor outcome, while an improved utility measure gives a good result. In the Moral Machine experiment, an autonomous vehicle faces a “deadly dilemma” and tries to choose the lesser of two evils, while an improved decision model could avoid the dilemma in the first place. Trust plays an essential role in the well-being of society, but when trust is lost, it is lost quickly and recovers slowly, if at all. In certain cases, poor decision models can encourage the exploitation of trust. They could create an existential risk for our society, at a time when we face serious threats.
+
+[Prof. Bo Li]("https://aisecure.github.io/") is an assistant professor in the department of Computer Science at University of Illinois at Urbana–Champaign, and the recipient of the Symantec Research Labs Fellowship, Rising Stars, MIT Technology Review TR-35 award, Intel Rising Star award, NSF CAREER Award, Research Awards from Tech companies such as Amazon, Facebook, Google, and IBM, and best paper awards in several machine learning and security conferences. Her research focuses on both theoretical and practical aspects of trustworthy machine learning, security, machine learning, privacy, and game theory. She has designed several scalable frameworks for robust machine learning and privacy preserving data publishing systems. Her work has been featured by major publications and media outlets such as Nature, Wired, Fortune, and New York Times.
+
+**Title: Trustworthy Machine Learning via Logic Inference** \
+**Abstract:** Advances in machine learning have led to rapid and widespread deployment of learning based inference and decision making for safety-critical applications, such as autonomous driving and security diagnostics. Current machine learning systems, however, assume that training and test data follow the same, or similar, distributions, and do not consider active adversaries manipulating either distribution. Recent work has demonstrated that motivated adversaries can circumvent anomaly detection or other machine learning models at test time through evasion attacks, or can inject well-crafted malicious instances into training data to induce errors in inference time through poisoning attacks. In this talk, I will describe my recent research about security and privacy problems in machine learning systems. In particular, I will introduce several adversarial attacks in different domains, and discuss potential defensive approaches and principles, including game theoretic based and knowledge enabled robust learning paradigms, towards developing practical robust learning systems with robustness guarantees.
+
+[Dr. Leifeng Bo]("https://research.cs.washington.edu/istc/lfb/") is the Head of Silicon Valley R&D Center at JD Technology, leading a team to develop advanced AI technologies. He was a Principal Scientist at Amazon for building a grab-and-go shopping experience using computer vision, deep learning and sensor fusion technologies. He received his PhD from Xidian University in 2007, and was a postdoctoral researcher at TTIC and University of Washington, respectively. His research interests are in machine learning, deep learning, computer vision, robotics, and natural language processing. He won the National Excellent Doctoral Dissertation Award of China in 2010, and the Best Vision Paper Award in ICRA 2011. 
+
+**Title：Large Scale Vertical Federated Learning** \
+**Abstract:** In this talk, we will share our experiences in developing FedLearn, a large-scale vertical federated learning framework that focuses on scalability over vertically partitioned data sets via both algorithmic and engineering optimizations. We start by adopting a distributed framework for Federated Random Forest, which parallelly constructs classification or regression trees over multiple subsets of randomly selected samples and features on clusters of machines. Federated Random Forest relies on time-costly homomorphic encryption to protect transmitted data, and we further boost its efficiency by homomorphic encryption acceleration, high-performance computing, message compression, and asynchronous transmission. Secondly, we develop Federated Kernel Learning that introduces efficient kernel-based gradient approximations to protect transmitted data rather than sticking with homomorphic encryption. We demonstrate kernel-based approximations coordinate with parallel computing and scale well with data size. FedLearn provides a series of reliable optimizations to vertical federated learning algorithms and makes them highly scalable and efficient for industrial applications. We expect FedLearn to help researchers and developers with practical solutions on large-scale vertically federated learning scenarios.
+
+[Prof. Cees Snoek]("https://www.ceessnoek.info/") & William Thong \
+**Title: De-biasing algorithms for images seen and unseen** \
+**Abstract:** It is well known that datasets in multimedia computing have a strong built-in bias as they can represent only a narrow view of the real world. Even though addressing biases from the start of the dataset creation is highly recommended, models learned from such data can still be affected by spurious correlations and produce unfair decisions. In this talk I present two algorithms that try to mitigate this bias for image classification. For seen images we identify a bias direction in the feature space that corresponds to the main direction of maximum variance of class-specific prototypes. In light of this, we propose to learn to map inputs to domain-specific embeddings, where each value of a protected attribute has its own domain. For unseen images, in a generalized zero-shot learning setting, we propose a bias-aware learner to map inputs to a semantic embedding space. During training, the model learns to regress to real-valued class prototypes in the embedding space with temperature scaling, while a margin-based bidirectional entropy term regularizes seen and unseen probabilities. Experiments demonstrate the benefits of the proposed de-biased classifiers in multi-label and zero-label settings, as well as their ability to improve fairness of the predictions.
+    
+[Dr. Ting Yao]("http://tingyao.deepfun.club/") is currently a Principal Researcher in Vision and Multimedia Lab at JD AI Research, Beijing, China. His research interests include video understanding, vision and language, and deep learning. Prior to joining JD.com, he was a Researcher with Microsoft Research Asia, Beijing, China. Ting is the lead architect of a few top-performing multimedia analytic systems in international benchmark competitions such as ActivityNet Large Scale Activity Recognition Challenge 2019-2016, Visual Domain Adaptation Challenge 2019-2017, and COCO Image Captioning Challenge. He is also the lead organizer of MSR Video to Language Challenge in ACM Multimedia 2017 & 2016, and built MSR-VTT, a large-scale video to text dataset that is widely used worldwide. His works have led to many awards, including ACM SIGMM Outstanding Ph.D. Thesis Award 2015, ACM SIGMM Rising Star Award 2019, and IEEE TCMC Rising Star Award 2019. He is an Associate Editor of IEEE Trans. on Multimedia.
+
+**Title：Trustworthy Visual Understanding: Generic Representation Learning and Explainable Interpretation** \
+**Abstract:** One important factor credited for the remarkable developments in computer vision today is the emergence of deep neural networks. Despite having encouraging performances, these approaches become increasingly opaque to the end users and are brittle against real-world deployment of intelligent systems. As such, trustworthy AI is gaining intensive traction recently and develops AI systems which can be certified to be trustworthy and robust. In this talk, we will describe our recent works in three important aspects of AI trustworthiness: 1) Generalization – aim for learning generic visual representation by self-supervised learning; 2) Generalization – pre-train a universal encoder-decoder structure for cross-modal tasks; 3) Explainability – design explainable representations/models for interpreting images/videos. Moreover, we will conclude with some future potentials.
+
+[Fisher Yu]("https://www.yf.io/") is an Assistant Professor at ETH Zürich in Switzerland. He obtained his Ph.D. degree from Princeton University and became a postdoctoral researcher at UC Berkeley. He is now leading the Visual Intelligence and Systems (VIS) group, part of Computer Vision Lab (CVL), at ETH Zürich. His goal is to build perceptual systems capable of performing complex tasks in complex environments. His research is at the junction of machine learning, computer vision, and robotics. He currently works on closing the loop between vision and action. His works on image representation learning and large-scale datasets, especially dilated convolutions and the BDD100K dataset, have become essential parts of computer vision research. 
+
+**Title: Towards Efficient and Explainable End-to-End Reinforcement Driving Policy Learning** \
+**Abstract:** End-to-end driving policy learning has always been an attractive intellectual topic among AI research researchers. Recent advances in this area shed light on how we may achieve it in real systems. In this talk, I will briefly review the current promising methods. I will then introduce our recent work on learning an effective expert to teach an imitation policy learning agent, which can achieve outstanding performance for driving in a simulation environment. Further, I will discuss making the existing policy learning method more explainable and data-efficient from a reinforcement learning perspective. Our works draw inspiration from the traditional model predictive control methods. I hope those ideas can inspire more researchers to study end-to-end learning systems.
+
+## Organizers
+<div style="display: flex">
+  <div style="width:22.5%">
+    <a href="http://people.rennes.inria.fr/Teddy.Furon/website/Welcome.html">
+    <img alt="Teddy Furon" src="pics/teddy2.jpeg">
+    </a><br>
+    <a href="http://people.rennes.inria.fr/Teddy.Furon/website/Welcome.html">Teddy Furon</a><br>
+    INRIA
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  
+  <div style="width:22.5%">
+    <a href="http://www.cs.ucf.edu/~liujg/">
+    <img alt="Jingen Liu" src="pics/jingen2.jpg">
+    </a><br>
+  <a href="http://www.cs.ucf.edu/~liujg/">Jingen Liu</a><br>
+    JD.com 
+  </div>
+ 
+  
+  <div style="width:2.5%">
+  </div>
+  
+  <div style="width:22.5%">
+    <a href="https://www.crcv.ucf.edu/person/rawat/">
+    <img alt="Yogesh Rawat" src="pics/rawat.jpg">
+    </a><br>
+  <a href="https://www.crcv.ucf.edu/person/rawat/">Yogesh Rawat</a><br>
+    University of Central Florida (UCF)
+  </div>
+</div>
+
+<div style="display: flex">
+  <div style="width:22.5%">
+    <a href="http://wzhang.fun/">
+    <img alt="Wei Zhang" src="pics/wei2.jpg">
+    </a><br>
+    <a href="http://wzhang.fun/">Wei Zhang</a><br>
+    JD.com
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  
+  <div style="width:22.5%">
+    <a href="https://www-users.cs.umn.edu/~qzhao/index.html">
+    <img alt="Qi Zhao" src="pics/qi2.jpg">
+    </a><br>
+  <a href="https://www-users.cs.umn.edu/~qzhao/index.html">Qi Zhao</a><br>
+    University of Minnesota (UMN)
+  </div>
+
+</div>
+
+## Advisory Board
+
+| --- | --- |
+| Prof. Mohan Kankanhalli | National University of Singapore, Singapore  |
+| Prof. Jiebo Luo | University of Rochester, USA |
+| Dr. Tao Mei | JD.com AI Research, China |
+| Prof. Mubarak Shah | University of Central Florida, USA |
+| Dr. Bowen Zhou | JD.com AI Research, China |
+
+## Program Committee
+
+| --- | --- |
+| Ping Liu | Sr. Research Scientist, A*STAR, Singapore |
+| Naveed Akhtar | Assistant Professor, University of Western Australia, Australia |
+| Zheng Sou | Research Scientist, Facebook AI, USA |
+| Jian Liu | JD.com Silicon Valley Research Labs, USA |
+| Ziyan Wu | Principal Scientist, United Imaging Intelligence, USA |
+| Fisher Yu | Assistant Professor, ETH Zürich |
+| Huazhu Fu | Senior Scientist, IIAI, United Arab Emirates |
+| Yingwei Pan | Research Scientist, JD AI Research, China |
+| Yalong Bai | Research Scientist, JD AI Research, China |
+| Rahul Ambati | PhD Student, University of Central Florida |
+| Aayush Rana | PhD Student, University of Central Florida |
