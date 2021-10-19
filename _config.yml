@@ -1,11 +1,10 @@
 theme: jekyll-theme-cayman
-title: "Debugging Machine Learning Models"
-description: 
-- ICLR 2019 workshop, May 6, 2019, New Orleans
-- 9.50am - 6.30pm, Room R03
+title: Trustworthy AI for Multimedia Computing
+description: ACM Multimedia 2021 workshop, Oct 2021, Chengdu, China
 buttons:
-  Speakers: '#speakers'
-  Schedule: '#schedule'
-  Posters: '#posters'
-  Demos: '#demos'
-  Organizers: '#organizers'
+  Overview: '#overview'
+  Call for Contributions: '#overview'
+  Important Dates: '#overview'
+  Instructions: '#instructions'
+github:
+  is_project_page: false
